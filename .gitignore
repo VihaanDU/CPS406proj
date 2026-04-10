@@ -1,0 +1,9 @@
+out/
+*.db
+uploads/
+lib/*.jar
+.DS_Store
+.idea/
+*.iml
+.vscode/
+sources.txt
